@@ -70,7 +70,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-15-pro.git
+git clone https://github.com/Harshil174/iphone-15-pro.git
 cd iphone-15-pro
 ```
 
